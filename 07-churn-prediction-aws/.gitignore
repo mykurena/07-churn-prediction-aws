@@ -1,0 +1,22 @@
+# Archivos de entorno y credenciales
+.env
+*.pem
+
+# Datos descargados localmente (no subir el CSV pesado a git)
+data/*.csv
+
+# Cachés de Python y Jupyter
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# Build artifacts
+src/build/
+*.zip
+*.joblib
