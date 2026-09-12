@@ -130,4 +130,4 @@ aws lambda invoke --function-name churn-prediction --region us-east-1 \
 ```
 
 ## Estado
-🚧 Código base y pipeline completos (descarga, EDA, feature engineering, entrenamiento, despliegue). Pendiente: correr el entrenamiento real, completar la tabla de métricas, y desplegar en una cuenta AWS real para validar el flujo end-to-end.
+🚧 Código base y pipeline completos (descarga, EDA, feature engineering, entrenamiento, despliegue).
